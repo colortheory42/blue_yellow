@@ -26,9 +26,9 @@ survive
 
 Typical controls:
 
--   W / S --- Move forward / backward\
--   A / D --- Strafe left / right\
--   Mouse --- Look around\
+-   W / S --- Move forward / backward
+-   A / D --- Strafe left / right
+-   Mouse --- Look around
 -   ESC --- Death
 
 ------------------------------------------------------------------------
