@@ -1,2 +1,1 @@
-# blue_yellow
-Its Not Something
+# blue_yellow_architecture
