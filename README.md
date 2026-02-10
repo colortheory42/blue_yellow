@@ -1,6 +1,6 @@
-# 🟦🟨 Blue & Yellow Backrooms
+# 🟦🟨 blue_yellow
 
-**Blue & Yellow Backrooms** is a minimal, atmospheric exploration
+blue_yellow is a minimal, atmospheric exploration
 environment where the player navigates repeating geometry and surreal
 color spaces.
 
