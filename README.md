@@ -4,9 +4,11 @@ blue_yellow is a minimal, atmospheric exploration
 environment where the player navigates repeating geometry and surreal
 color spaces.
 
-Instead of entities, danger comes from: - Disorientation\
-- Spatial repetition\
-- Pattern recognition failure\
+Instead of entities, danger comes from: 
+
+- Disorientation
+- Spatial repetition
+- Pattern recognition failure
 - Player expectations not matching reality
 
 Survival means maintaining orientation and continuing forward through
